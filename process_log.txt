@@ -5,3 +5,9 @@
 2024-07-10 11:51:15 - Process Notepad.exe total running time: 0:00:02.922432
 2024-07-10 11:52:56 - Process Notepad.exe total running time: 0:00:06.977312
 2024-07-10 11:53:10 - Process Notepad.exe total running time: 0:00:06.945603
+2024-07-10 11:53:24 - Process git.exe total running time: 0:00:06.687232
+2024-07-10 11:53:24 - Process git.exe total running time: 0:00:06.687232
+2024-07-10 11:53:24 - Process git.exe total running time: 0:00:06.687232
+2024-07-10 11:53:24 - Process git.exe total running time: 0:00:06.687232
+2024-07-10 11:53:24 - Process conhost.exe total running time: 0:00:06.687232
+2024-07-10 11:53:24 - Process conhost.exe total running time: 0:00:06.687232
