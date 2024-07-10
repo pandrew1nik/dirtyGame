@@ -1,6 +1,0 @@
-2024-07-10 11:46:08 - Process msedge.exe total running time: 0:00:05.037671
-2024-07-10 11:46:18 - Process msedge.exe total running time: 0:00:05.032766
-2024-07-10 11:46:28 - Process msedge.exe total running time: 0:00:05.022326
-2024-07-10 11:48:09 - Process Notepad.exe total running time: 0:00:05.014773
-2024-07-10 11:51:15 - Process Notepad.exe total running time: 0:00:02.922432
-2024-07-10 11:52:56 - Process Notepad.exe total running time: 0:00:06.977312
